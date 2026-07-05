@@ -51,8 +51,7 @@ Computer Science & Engineering Student | Passionate about Software Development &
 
 <p>
 
-<img src="https://streak-stats.demolab.com?user=abhiramkn&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=abhiramkn&theme=tokyonight&cache_seconds=1"/>
 </p>
 
 ---
