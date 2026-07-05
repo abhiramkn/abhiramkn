@@ -42,7 +42,7 @@ Computer Science & Engineering Student | Passionate about Software Development &
 # 🛠️ Languages & Tools
 
 <p >
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,git,github,vscode,linux,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,git,github,vscode,linux,figma" />
 </p>
 
 ---
