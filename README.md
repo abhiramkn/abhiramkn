@@ -47,11 +47,6 @@ Computer Science & Engineering Student | Passionate about Software Development &
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiramkn&show_icons=true&theme=github_dark&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramkn&layout=compact&theme=github_dark&cache_seconds=1800" height="170"/>
-</p>
-
 # 🔥 GitHub Streak
 
 <p>
