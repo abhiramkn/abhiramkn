@@ -1,24 +1,94 @@
-# 💫 About Me:
-Hi, I'm Komal Abhiram Chowdary Nalluri<br><br>🎓 Computer Science & Engineering student passionate about technology and continuous learning.<br><br>💻 Currently learning Java, Python, HTML, JavaScript, SQL, and Data Analytics while building projects to strengthen my problem-solving and development skills.<br><br>🚀 I enjoy exploring new technologies, contributing to open-source projects, and creating practical solutions through code.<br><br>📚 Always learning, always building, and always looking for opportunities to grow as a software developer.
+<h1 align="center">Hi 👋, I'm Abhiram Chowdary Nalluri</h1>
 
+<h3 align="center">
+Computer Science & Engineering Student | Passionate about Software Development & Continuous Learning
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Komal_abhiram) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/rama_060) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhiram Chowdary Nalluri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:komalabhiramnalluri06@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Developer;Python+Learner;Web+Development+Enthusiast;Data+Analytics+Learner;Always+Learning+New+Technologies" />
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhiramkn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abhiramkn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhiramkn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="left">🌐 Connect with me:</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhiramkn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/abhiramkn">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/komal-abhiram-nalluri-b65519380">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/Komal_abhiram">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:komalabhiramnalluri06@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+# 💫 About Me
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Currently learning **Java, Python, HTML, CSS, JavaScript, SQL, Git & GitHub**
+- 🌱 Exploring **Web Development, Data Analytics, and Open Source**
+- 🚀 Passionate about building practical software solutions
+- 📚 Always learning, always building, always improving
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhiramkn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🛠️ Languages & Tools
+
+<p >
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,git,github,vscode,linux,figma,canva" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiramkn&show_icons=true&theme=github_dark&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramkn&layout=compact&theme=github_dark&cache_seconds=1800" height="170"/>
+</p>
+
+# 🔥 GitHub Streak
+
+<p>
+
+<img src="https://streak-stats.demolab.com?user=abhiramkn&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiramkn&theme=tokyo-night"/>
+
+</p>
+
+---
+
+
+# 📊 GitHub Profile Summary
+
+<p >
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiramkn&theme=github_dark"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
