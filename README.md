@@ -27,9 +27,6 @@ Computer Science & Engineering Student | Passionate about Software Development &
 <a href="mailto:komalabhiramnalluri06@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="mailto:komalabhiramnalluri06@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 # 💫 About Me
