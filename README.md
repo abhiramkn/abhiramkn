@@ -8,7 +8,7 @@ Computer Science & Engineering Student | Passionate about Software Development &
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Developer;Python+Learner;Web+Development+Enthusiast;Data+Analytics+Learner;Always+Learning+New+Technologies" />
 </p>
 
-<h2 align="left">🌐 Connect with me:</h2>
+<h2 align="left">🌐 Connect with me: </h2>
 
 <p align="left">
 
@@ -24,6 +24,9 @@ Computer Science & Engineering Student | Passionate about Software Development &
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="mailto:komalabhiramnalluri06@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="mailto:komalabhiramnalluri06@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
