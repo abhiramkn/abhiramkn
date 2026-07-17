@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komal Abhiram Chowdary Nalluri</h1>
+<h1 align="center">Hii 👋, I'm Komal Abhiram Chowdary Nalluri</h1>
 
 <h3 align="center">
   Computer Science & Engineering Student | Java • Python • Web Development • Data Analytics..
