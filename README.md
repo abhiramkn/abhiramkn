@@ -37,8 +37,8 @@
 - 🎓 Computer Science & Engineering Student
 - 💻 Currently learning **Java, Python, HTML, CSS, JavaScript, SQL, Git & GitHub**
 - 🌱 Exploring **Web Development, Data Analytics, and Open Source**
-- 🚀 Passionate about building practical software solutions
-- 📚 Always learning, always building, always improving
+- 🚀 Passionate about building practical software solutions.
+- 📚 Always learning, always building, always improving.
 
 ---
 
