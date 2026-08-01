@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header"/>
-</p>
+
 
 <br>
 <h1 align="center">Hii 👋, I'm Komal Abhiram Chowdary Nalluri</h1>
