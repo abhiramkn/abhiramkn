@@ -69,6 +69,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiramkn&theme=tokyo-night"/>
 
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhiramkn/abhiramkn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 
