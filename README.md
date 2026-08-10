@@ -1,5 +1,4 @@
 
-
 <br>
 <h1 align="center">Hii 👋, I'm Komal Abhiram Chowdary Nalluri...</h1>
 
@@ -52,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,git,github,vscode,linux,figma,canva,apache&theme=dark" />
 </p>
 
-
+---
 
 ## 🔥 GitHub Streak
 
@@ -62,6 +61,7 @@
     alt="GitHub Streak"
   />
 </p>
+
 ---
 
 # 📈 Contribution Graph
